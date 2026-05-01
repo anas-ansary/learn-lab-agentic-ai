@@ -2,7 +2,7 @@
 
 ## LangChain
 Framework for developing apps powered by LLMs. Chainable / Composable tools, memory, actions and agents
-  -- Used with python and virtual env
+  -- Used with python and virtual env (TS is possible)
 
 **Deep agents** - have access to more built-in tools than agents (which would have to be implemented as tools), like - write_todos (break down for research), grep, file access. And it can spawn subagents
 
