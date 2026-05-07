@@ -13,5 +13,8 @@ https://docs.langchain.com/oss/python/langchain/quickstart#langchain-agents
 
 ## Run local models
 Installed Ollama (brew install)
+Pull a model and run (Ollama pull llama3, ollama run llama3)
+(Uninstalled - too resource intensive)
 
 ## LangGraph
+
