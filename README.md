@@ -9,3 +9,9 @@ Framework for developing apps powered by LLMs. Chainable / Composable tools, mem
 **LangSmith** -Trace and inspect agent calls to LLMs
 
 https://docs.langchain.com/oss/python/langchain/quickstart#langchain-agents
+
+
+## Run local models
+Installed Ollama (brew install)
+
+## LangGraph
