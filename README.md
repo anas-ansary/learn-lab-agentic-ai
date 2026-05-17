@@ -25,3 +25,6 @@ Pull a model and run (Ollama pull llama3, ollama run llama3)
 - LLM bound with tools -> decides to process as natural text or call a tool. Doesn't actually call.
 - Add a tool condition to actually call the tool if LLM decides to
 - ReAct arch - Route the tool output back to LLM
+
+## Enable Tracing
+- Set LANGSMITH_API_KEY, os.environ["LANGSMITH_TRACING"] to "true" and os.environ["LANGSMITH_PROJECT"] name
