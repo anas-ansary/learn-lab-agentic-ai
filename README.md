@@ -24,4 +24,4 @@ Pull a model and run (Ollama pull llama3, ollama run llama3)
 ## LangGraph
 - LLM bound with tools -> decides to process as natural text or call a tool. Doesn't actually call.
 - Add a tool condition to actually call the tool if LLM decides to
-- React arch - Route the tool output back to LLM
+- ReAct arch - Route the tool output back to LLM
