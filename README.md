@@ -16,5 +16,12 @@ Installed Ollama (brew install)
 Pull a model and run (Ollama pull llama3, ollama run llama3)
 (Uninstalled - too resource intensive)
 
-## LangGraph
+## LangChain ecosystem
+- LangChain - Build agents with any model of choice
+- LangGraph - Orchestration framework for agents (not just LangChain)
+- LangSmith - Provides Observability and Deployment
 
+## LangGraph
+- LLM bound with tools -> decides to process as natural text or call a tool. Doesn't actually call.
+- Add a tool condition to actually call the tool if LLM decides to
+- React arch - Route the tool output back to LLM
